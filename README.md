@@ -68,6 +68,7 @@ Para executar este notebook localmente, instale as dependências:
 ```bash
 pip install pandas numpy matplotlib seaborn scipy jupyter
 
+---
 
 ## ✍️ Autores
 
