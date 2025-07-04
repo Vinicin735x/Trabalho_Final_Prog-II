@@ -61,15 +61,6 @@ A análise confirmou a hipótese levantada: **houve um aumento na volatilidade d
 
 ---
 
-## 📚 Requisitos
-
-Para executar este notebook localmente, instale as dependências:
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy jupyter
-
----
-
 ## ✍️ Autores
 
 - Vinícius Castelhano Mantovani
