@@ -33,7 +33,7 @@ As análises foram feitas com base nos seguintes passos:
 - Gráfico de linha com tendência da volatilidade
 - Mapa de calor de correlação entre variáveis
 - Análise de Skewness e Kurtosis para verificar distribuição dos dados
-- Análise da Evoluçaõ do Preço de Fechamento das Ações da Nvidia (2015-2025)
+- Análise da Evolução do Preço de Fechamento das Ações da Nvidia (2015-2025)
 
 ---
 
